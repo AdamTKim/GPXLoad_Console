@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\bin\Debug\net6.0\GPXLoad_Console.exe
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\bin\Debug\net6.0\GPXLoad_Console.deps.json
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\bin\Debug\net6.0\GPXLoad_Console.runtimeconfig.json
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\bin\Debug\net6.0\GPXLoad_Console.dll
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\bin\Debug\net6.0\GPXLoad_Console.pdb
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.dll
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\refint\GPXLoad_Console.dll
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.pdb
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\GPXLoad_Console.genruntimeconfig.cache
+C:\Users\Admin\source\repos\GPXLoad_Console\GPXLoad_Console\obj\Debug\net6.0\ref\GPXLoad_Console.dll
